@@ -1,0 +1,4 @@
+# Prevent changes to the default enviroment configuration
+.env
+dist
+node_modules

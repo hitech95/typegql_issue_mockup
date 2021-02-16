@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7177d8a4-5568-4ec4-b77a-90dd8bd33813" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/person.entity.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/HashCounter.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/globalMiddleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/jwt.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/server.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lib/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/auth/auth.resolver.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/auth/inputs/login.input.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/auth/responses/auth.response.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/person/person.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/shared/base.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/shared/context/loaders.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/shared/context/resolver.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/user/user.entity.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/user/user.resolver.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/attachLoaders.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/authChecker.ts" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oYmFEXCzzVfqIRYBI5agPshKkn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\Nicoló\Desktop\mockup\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="C:\Users\Nicoló\Desktop\mockup\node_modules\typescript\lib" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7177d8a4-5568-4ec4-b77a-90dd8bd33813" name="Default Changelist" comment="" />
+      <created>1613471793095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613471793095</updated>
+      <workItem from="1613471794118" duration="3535000" />
+      <workItem from="1613475362138" duration="2314000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1613473626372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1613473626372" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613474053748">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613474053748" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1613485442973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1613485442973" />
+  </component>
+</project>
